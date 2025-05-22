@@ -25,3 +25,8 @@ This method of API consumption assists developers in acquiring important JavaScr
 The software environment utilized is the client-side web browser, i.e., the application is executed completely on the user's machine without the necessity for server-side computation or databases. Consequently, this project is light and simple to deploy. It may be hosted on any static website hosting service like GitHub Pages, Netlify, or even executed from a file directly on a local machine. The application possesses various applications in the real world. It can be utilized as a basic tool to verify current weather data in any city, so it is helpful for personal usage, school demos, or public kiosks. For beginners and students, it is a good practical example of API work and creation of responsive interfaces. With slight improvements such as geolocation, icons, or extended multi-day forecasts, it can be a more feature-rich weather solution.
 
 It can also be integrated into trip sites, dashboards, or home automation interfaces as a weather widget.Overall, this weather web app illustrates the way to create a dynamic and flexible web interface with merely HTML, CSS, and JavaScript while making use of a free and open public API. It highlights real-world web development capability and can be developed further into more sophisticated projects with more features.
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4ac0ead1-bac5-4259-9695-de714c357de4)
